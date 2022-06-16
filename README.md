@@ -1,2 +1,2 @@
-# Week-1-Homework
+# Week-1-Homework-Code-Refactoring
 Horiseon HTML page
