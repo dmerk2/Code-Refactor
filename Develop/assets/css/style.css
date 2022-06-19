@@ -1,13 +1,16 @@
+/* Selecting all elements on html page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* The bodies background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Selecting the header class */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* Selecting the h1 tag inside of the class header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Selecting the class seo for the h1 tag inside the class header */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Selecting the div class */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
