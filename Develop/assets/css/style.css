@@ -38,24 +38,29 @@ body {
     font-size: 20px;
 }
 
+/* Selecting the unorder list inside the div class header */
 .header div ul {
     list-style-type: none;
 }
 
+/* Selecting the list item inside of the unordered list inside of the div class header */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Selecting all a elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Selecting all of the p elements */
 p {
     font-size: 16px;
 }
 
+/* Selecting class hero */
 .hero {
     height: 800px;
     width: 100%;
