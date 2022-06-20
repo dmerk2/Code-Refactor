@@ -5,7 +5,7 @@ First weeks homework Refactoring existing code. Taking existing code and Refacto
 
 ## Screenshots
 Website Header
-<img src="./assets/images/Horiseon_Header.png"></img>
+<img src="Assets\01-html-css-git-homework-demo.png"></img>
 
 ## Deployed Website URL
  https://dmerk2.github.io/Code-Refactoring-Homework/
