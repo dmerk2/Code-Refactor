@@ -1,1 +1,1 @@
-First weeks homework Refactoring existing code. Taking existing code and Refacoring/Fixing errors. Added comments to the HTML and CSS file to make it clear what each element is doing. The link to my project is 
+First weeks homework Refactoring existing code. Taking existing code and Refactoring/Fixing esisting errors. In addition, I added comments to the HTML and CSS file to make it clear what each element is doing and styling. The link to my project is 
