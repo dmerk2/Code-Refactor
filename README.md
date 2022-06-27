@@ -8,4 +8,4 @@ Website Template
 <img src="Assets\01-html-css-git-homework-demo.png"></img>
 
 ## Deployed Website URL
-https://github.com/dmerk2/Code-Refactor
+https://dmerk2.github.io/Code-Refactor/
